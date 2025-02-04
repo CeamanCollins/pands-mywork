@@ -1,4 +1,4 @@
-# hello.py
+# addOne.py
 # author: Céaman Collins
 # A program that adds one to the input number.
 
