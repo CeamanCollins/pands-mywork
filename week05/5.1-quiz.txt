@@ -1,0 +1,18 @@
+1. 
+a) int
+b) float
+c) boolean
+d) string
+e) list
+f) tuple
+g) string
+h) dict
+i) list
+j) boolean
+k) dict
+l) string
+m) dict
+n) list
+o) int
+p) none?
+
