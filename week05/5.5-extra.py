@@ -11,9 +11,8 @@ while new_name != "":
         if new_module== "":
             break
         new_grade = input("Enter grade: ")
-        students[new_name]["modules"].append({"module":new_module,"grade":new_grade})
+        students[new_name]["modules"].append({"name":new_module,"grade":new_grade})
 
 print(students)
-
 
     
