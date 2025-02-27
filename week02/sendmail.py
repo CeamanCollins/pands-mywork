@@ -4,12 +4,13 @@
 
 import smtplib
 from email.mime.text import MIMEText
+from config import keys
 
 subject = "Email Subject"
 body = "This is the body of the text message"
 sender = "andrewbeattycourse@gmail.com"
 recipients = ["ceaman.collins@gmail.com", "g00472974@atu.ie"]
-password = "cnkk mvam lcbj sknl"
+password = keys['gmail']
 
 
 def send_email(subject, body, sender, recipients, password):
