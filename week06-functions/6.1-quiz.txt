@@ -1,0 +1,2 @@
+1.a) nothing
+b) print(yo(3))
