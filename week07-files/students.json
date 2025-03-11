@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Mary",
+        "courses": [
+            {
+                "name": "Science",
+                "grade": "80"
+            },
+            {
+                "name": "Maths",
+                "grade": "90"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "courses": [
+            {
+                "name": "Science",
+                "grade": "90"
+            },
+            {
+                "name": "Math",
+                "grade": "80"
+            }
+        ]
+    }
+]
